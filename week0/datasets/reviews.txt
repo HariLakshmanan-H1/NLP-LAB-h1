@@ -1,0 +1,11 @@
+Review_ID	Source	Sentiment_Label	Sentiment_Score	Word_Count	Actual_Label
+101	Twitter	Positive	0.95	12	Positive
+102	AppStore	Negative	0.12	45	Negative
+103	AppStore	Positive	0.88	10	Positive
+104	Reddit	Neutral	0.55	85	Negative
+105	Twitter	Negative	0.05	120	Negative
+106	Reddit	Neutral	0.48	60	Neutral
+107	AppStore	Positive	0.92	15	Positive
+108	Twitter	Negative	0.2	30	Negative
+109	Reddit	Positive	0.78	50	Neutral
+110	AppStore	Positive	0.85	8	Positive
